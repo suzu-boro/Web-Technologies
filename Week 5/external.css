@@ -1,0 +1,42 @@
+*{
+    font-family: 'Alkatra', cursive;
+}
+h1{
+    background-color: black;
+    color: red;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background: linear-gradient(red, blue, yellow, green);
+}
+.p1{
+    background-color: aquamarine;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+}
+#p2{
+    background-color: papayawhip;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+}
+.p3{
+    background-color: black;
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+}
+.p3:hover{
+    background-color: yellow;
+    color: black;
+}
+img{
+    width:600px;
+    height:500px;
+}
+img[alt]{
+    color: red;
+    background-color: black;
+}

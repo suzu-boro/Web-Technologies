@@ -1,0 +1,31 @@
+.flex{
+    background-color: dimgray;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+}
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color: coral;
+}
+.box3{
+    background-color: sandybrown;
+}
+.box4{
+    background-color: crimson;
+}
+.box5{
+    background-color: violet;
+}
+.box6{
+    background-color: rebeccapurple;
+}
